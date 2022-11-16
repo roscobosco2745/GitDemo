@@ -1,0 +1,224 @@
+BlueJ run started: Fri Oct 23 18:59:24 EDT 2020
+BlueJ version 4.2.2
+Java version 11.0.2
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.2+9 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Detected language "english" based on iso639-2 code "eng"
+Opening project: C:\Users\Rosco\Hello
+1603494452439: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+java.io.FileNotFoundException while reading import cache: C:\Users\Rosco\bluej\import-cache.xml (The system cannot find the file specified)
+Communication with debug VM fully established.
+====
+
+====
+BlueJ run started: Fri Oct 23 19:57:53 EDT 2020
+BlueJ version 4.2.2
+Java version 11.0.2
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.2+9 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Opening project: C:\Users\Rosco\Hello
+1603497474089: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+====
+
+====
+BlueJ run started: Fri Oct 23 20:11:37 EDT 2020
+BlueJ version 4.2.2
+Java version 11.0.2
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.2+9 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Opening project: C:\Users\Rosco\Hello
+1603498297781: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+====
+
+====
+BlueJ run started: Fri Oct 23 20:12:30 EDT 2020
+BlueJ version 4.2.2
+Java version 11.0.2
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.2+9 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Opening project: C:\Users\Rosco\Hello
+1603498351508: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+Oct 24, 2020 9:16:15 AM javafx.scene.CssStyleHelper calculateValue
+WARNING: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jar:file:/C:/Program%20Files/BlueJ/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+Oct 24, 2020 9:23:00 AM javafx.scene.CssStyleHelper calculateValue
+WARNING: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jar:file:/C:/Program%20Files/BlueJ/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+Error or exception for source not in project: C:\Users\Rosco\Hello\NumberFormatException.java, line 65: java.lang.NumberFormatException:
+For input string: "yes"
+Error or exception for source not in project: C:\Users\Rosco\Hello\Integer.java, line 652: java.lang.NumberFormatException:
+For input string: "yes" (in java.lang.NumberFormatException)
+Error or exception for source not in project: C:\Users\Rosco\Hello\Integer.java, line 983: java.lang.NumberFormatException:
+For input string: "yes" (in java.lang.NumberFormatException)
+Error or exception for source not in project: C:\Users\Rosco\Hello\NumberFormatException.java, line 65: java.lang.NumberFormatException:
+For input string: "llf"
+Error or exception for source not in project: C:\Users\Rosco\Hello\Integer.java, line 652: java.lang.NumberFormatException:
+For input string: "llf" (in java.lang.NumberFormatException)
+Error or exception for source not in project: C:\Users\Rosco\Hello\Integer.java, line 983: java.lang.NumberFormatException:
+For input string: "llf" (in java.lang.NumberFormatException)
+Error or exception for source not in project: C:\Users\Rosco\Hello\NumberFormatException.java, line 65: java.lang.NumberFormatException:
+For input string: "llf"
+Error or exception for source not in project: C:\Users\Rosco\Hello\Integer.java, line 652: java.lang.NumberFormatException:
+For input string: "llf" (in java.lang.NumberFormatException)
+Error or exception for source not in project: C:\Users\Rosco\Hello\Integer.java, line 957: java.lang.NumberFormatException:
+For input string: "llf" (in java.lang.NumberFormatException)
+Error or exception for source not in project: C:\Users\Rosco\Hello\Integer.java, line 1427: java.lang.NumberFormatException:
+For input string: "llf" (in java.lang.NumberFormatException)
+Error or exception for source not in project: C:\Users\Rosco\Hello\NumberFormatException.java, line 65: java.lang.NumberFormatException:
+For input string: "15"
+Error or exception for source not in project: C:\Users\Rosco\Hello\Integer.java, line 652: java.lang.NumberFormatException:
+For input string: "15" (in java.lang.NumberFormatException)
+Error or exception for source not in project: C:\Users\Rosco\Hello\Integer.java, line 957: java.lang.NumberFormatException:
+For input string: "15" (in java.lang.NumberFormatException)
+Error or exception for source not in project: C:\Users\Rosco\Hello\NumberFormatException.java, line 65: java.lang.NumberFormatException:
+For input string: "15"
+Error or exception for source not in project: C:\Users\Rosco\Hello\Integer.java, line 652: java.lang.NumberFormatException:
+For input string: "15" (in java.lang.NumberFormatException)
+Error or exception for source not in project: C:\Users\Rosco\Hello\Integer.java, line 957: java.lang.NumberFormatException:
+For input string: "15" (in java.lang.NumberFormatException)
+Error or exception for source not in project: C:\Users\Rosco\Hello\NumberFormatException.java, line 65: java.lang.NumberFormatException:
+For input string: "15"
+Error or exception for source not in project: C:\Users\Rosco\Hello\Integer.java, line 652: java.lang.NumberFormatException:
+For input string: "15" (in java.lang.NumberFormatException)
+Error or exception for source not in project: C:\Users\Rosco\Hello\Integer.java, line 957: java.lang.NumberFormatException:
+For input string: "15" (in java.lang.NumberFormatException)
+Error or exception for source not in project: C:\Users\Rosco\Hello\NumberFormatException.java, line 65: java.lang.NumberFormatException:
+For input string: "15"
+Error or exception for source not in project: C:\Users\Rosco\Hello\Integer.java, line 652: java.lang.NumberFormatException:
+For input string: "15" (in java.lang.NumberFormatException)
+Error or exception for source not in project: C:\Users\Rosco\Hello\Integer.java, line 957: java.lang.NumberFormatException:
+For input string: "15" (in java.lang.NumberFormatException)
+Error or exception for source not in project: C:\Users\Rosco\Hello\NumberFormatException.java, line 65: java.lang.NumberFormatException:
+For input string: "444"
+Error or exception for source not in project: C:\Users\Rosco\Hello\Integer.java, line 652: java.lang.NumberFormatException:
+For input string: "444" (in java.lang.NumberFormatException)
+Error or exception for source not in project: C:\Users\Rosco\Hello\Integer.java, line 957: java.lang.NumberFormatException:
+For input string: "444" (in java.lang.NumberFormatException)
+Error or exception for source not in project: C:\Users\Rosco\Hello\NumberFormatException.java, line 65: java.lang.NumberFormatException:
+For input string: "80"
+Error or exception for source not in project: C:\Users\Rosco\Hello\Integer.java, line 652: java.lang.NumberFormatException:
+For input string: "80" (in java.lang.NumberFormatException)
+Error or exception for source not in project: C:\Users\Rosco\Hello\Integer.java, line 957: java.lang.NumberFormatException:
+For input string: "80" (in java.lang.NumberFormatException)
+====
+
+====
+BlueJ run started: Fri Oct 30 11:09:01 EDT 2020
+BlueJ version 4.2.2
+Java version 11.0.2
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.2+9 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Opening project: C:\Users\Rosco\Hello
+1604070542776: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+====
+
+====
+BlueJ run started: Thu Nov 05 21:42:05 EST 2020
+BlueJ version 4.2.2
+Java version 11.0.2
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.2+9 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Opening project: C:\Users\Rosco\Hello
+1604630526666: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+====
+
+====
+BlueJ run started: Fri Apr 16 09:49:04 EDT 2021
+BlueJ version 4.2.2
+Java version 11.0.2
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.2+9 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Opening project: C:\Users\Rosco\Hello
+1618580945880: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+====
+
+====
+BlueJ run started: Sat Jul 31 20:19:58 EDT 2021
+BlueJ version 4.2.2
+Java version 11.0.2
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.2+9 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Opening project: C:\Users\Rosco\Hello
+1627777199301: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+Jul 31, 2021 9:22:21 PM javafx.scene.CssStyleHelper calculateValue
+WARNING: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jar:file:/C:/Program%20Files/BlueJ/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+Error or exception for source not in project: C:\Users\Rosco\Hello\FloatingDecimal.java, line 2054: java.lang.NumberFormatException:
+For input string: "A"
+Error or exception for source not in project: C:\Users\Rosco\Hello\FloatingDecimal.java, line 110: java.lang.NumberFormatException:
+For input string: "A" (in jdk.internal.math.FloatingDecimal)
+Error or exception for source not in project: C:\Users\Rosco\Hello\Double.java, line 543: java.lang.NumberFormatException:
+For input string: "A" (in jdk.internal.math.FloatingDecimal)
+Error or exception for source not in project: C:\Users\Rosco\Hello\Double.java, line 506: java.lang.NumberFormatException:
+For input string: "A" (in jdk.internal.math.FloatingDecimal)
+Error or exception for source not in project: C:\Users\Rosco\Hello\FloatingDecimal.java, line 2054: java.lang.NumberFormatException:
+For input string: "A"
+Error or exception for source not in project: C:\Users\Rosco\Hello\FloatingDecimal.java, line 110: java.lang.NumberFormatException:
+For input string: "A" (in jdk.internal.math.FloatingDecimal)
+Error or exception for source not in project: C:\Users\Rosco\Hello\Double.java, line 543: java.lang.NumberFormatException:
+For input string: "A" (in jdk.internal.math.FloatingDecimal)
+Error or exception for source not in project: C:\Users\Rosco\Hello\Double.java, line 506: java.lang.NumberFormatException:
+For input string: "A" (in jdk.internal.math.FloatingDecimal)
+Error or exception for source not in project: C:\Users\Rosco\Hello\FloatingDecimal.java, line 2054: java.lang.NumberFormatException:
+For input string: "a"
+Error or exception for source not in project: C:\Users\Rosco\Hello\FloatingDecimal.java, line 110: java.lang.NumberFormatException:
+For input string: "a" (in jdk.internal.math.FloatingDecimal)
+Error or exception for source not in project: C:\Users\Rosco\Hello\Double.java, line 543: java.lang.NumberFormatException:
+For input string: "a" (in jdk.internal.math.FloatingDecimal)
+Error or exception for source not in project: C:\Users\Rosco\Hello\Double.java, line 506: java.lang.NumberFormatException:
+For input string: "a" (in jdk.internal.math.FloatingDecimal)
+Aug 01, 2021 12:50:02 AM javafx.scene.CssStyleHelper calculateValue
+WARNING: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jar:file:/C:/Program%20Files/BlueJ/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+Aug 01, 2021 5:19:48 PM javafx.scene.CssStyleHelper calculateValue
+WARNING: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jar:file:/C:/Program%20Files/BlueJ/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+====
+
+====
+BlueJ run started: Fri Oct 07 17:41:32 EDT 2022
+BlueJ version 4.2.2
+Java version 11.0.2
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.2+9 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Opening project: C:\Users\Rosco\Hello
+1665178893143: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
